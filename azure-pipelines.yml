@@ -9,7 +9,7 @@ trigger:
 strategy:
   matrix:
     linux:
-      imageName: "ubuntu-latest"
+      imageName: "linux-latest"
     mac:
       imageName: "macOS-latest"
     windows:
