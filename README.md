@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/fabiov1001/Test%20Project/_apis/build/status/fabioviv.pipelines?branchName=main)](https://dev.azure.com/fabiov1001/Test%20Project/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
